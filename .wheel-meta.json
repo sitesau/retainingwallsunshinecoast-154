@@ -1,0 +1,22 @@
+{
+  "wheel_id": 676,
+  "structure": "umbrella",
+  "slug": "retainingwallsunshinecoast-154",
+  "project": "retaining-walls-sunshine-coast-how-to-choose-35a6c6796537d3cb1f",
+  "parent_t1_ref": "retainingwallsunshinecoast-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallsunshinecoast.au",
+  "primary_kw": "retaining walls sunshine coast how to choose",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-sunshine-coast-how-to-choose-35a6c6796537d3cb1f/",
+  "tier": "T2",
+  "writeback_nonce": "86b6f2755d1f8a76",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-sunshine-coast/",
+      "anchor": "Retaining Walls Sunshine Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
